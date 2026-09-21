@@ -3,3 +3,4 @@ pandas
 numpy
 tensorflow==2.21.0
 joblib
+scikit-learn
